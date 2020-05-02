@@ -6,4 +6,5 @@ The following is the list of steps that I have done to meet these requirements:
 3. I changed the names of the <div> elements containing the classes: content and benifits to minimize "div soup".
 4. I added alt's to the three images in the content section.
 5. Changed each of the individual blocks within the content class. Again, to remove "div soup".
+(next is the sequential order)
 
