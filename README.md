@@ -11,4 +11,4 @@ The following is the list of steps that I have done to meet these requirements:
 6. Changed the Title to match the (h1) of the header to be more clear.
 
 My Goal was to not stray away from the looks of this screen shot, only to fix and organize the inaccuracies.
-<img src="https://courses.bootcampspot.com/courses/235/files/71328/download">
+<img src="https://courses.bootcampspot.com/courses/235/files/71328/download" alt="screenshot of original website">
