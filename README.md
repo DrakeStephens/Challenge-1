@@ -2,9 +2,9 @@ Link to my final draft: https://drakestephens.github.io/Challenge-1-Horiseon-Re
 
 I'm supposed to clean up the website and make sure that it functioning correctly and organized. The following is the list of steps that I have done to meet these requirements:
 
-I added an ID to the (div) element containing the class "search-engine-optimization"
+I added an ID to the (div) element containing the class "search-engine-optimization".
 
-I organized the style.css
+I organized the style.css.
 
 I changed the names of the (div) elements containing the content and benefits and replaced them with (section) elements. To minimize "div soup".
 
